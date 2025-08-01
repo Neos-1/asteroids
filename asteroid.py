@@ -33,20 +33,4 @@ class Asteroid(CircleShape):
 
         
         
-        
-        
-        #self.velocity = self.velocity.rotate(random_angle)
-        #self.radius =- ASTEROID_MIN_RADIUS
-        #pygame.draw.circle(screen, "white", self.position, self.radius, 2)
-                
-        #new_asteroid1 = new_asteroid1.Asteroid(self.position, self.radius - ASTEROID_MIN_RADIUS)
-        #new_asteroid1.velocity = self.velocity.rotate(random_angle)
-        #new_asteroid1.draw()
-        #new_asteroid2 = new_asteroid2.Asteroid
-        #new_asteroid2.velocity = self.velocity.rotate(-random_angle)
-        #new_asteroid2.radius = self.radius - ASTEROID_MIN_RADIUS
-        #new_asteroid2.draw()
-
-        
-        
 
